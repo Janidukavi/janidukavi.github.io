@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://urbanreach.social/sitemap.xml
